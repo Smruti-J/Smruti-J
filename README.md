@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Smruti!
 I'm a BCS Certified Business Analyst and I'm currently working on building a personal portfolio of projects and skills. Here's a lil info about me!
 
-🔭 I’m currently working on building a portfolio and improving my skills
-🌱 I’m currently learning Agile 
-👯 I’m looking to collaborate on any projects based on Python, Excel, SQL, Power BI, and Tableau
-🤔 I’m looking for help with increasing my network, and getting a job
-💬 Ask me about anything related to career, data, business analytics, studying in UK
-📫 How to reach me: My LinkedIn profile is linked below!
-😄 Pronouns: she/her
-⚡ Fun fact: I'm a crazy cat lover, an ailurophile! 
+- 🔭 I’m currently working on building a portfolio and improving my skills
+- 🌱 I’m currently learning Agile 
+- 👯 I’m looking to collaborate on any projects based on Python, Excel, SQL, Power BI, and Tableau
+- 🤔 I’m looking for help with increasing my network, and getting a job
+- 💬 Ask me about anything related to career, data, business analytics, studying in UK
+- 📫 How to reach me: My LinkedIn profile is linked below!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a crazy cat lover, an ailurophile! 
 
 ### 💼 Projects
 Listed below are the projects I have worked on. If you have any feedback for me, I'm open to it. Just be kind!
